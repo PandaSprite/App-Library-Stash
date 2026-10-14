@@ -1,6 +1,6 @@
-# App Library Stash
+# LUDORA Stash
 
-App Library is a lightweight catalog system for distributing Android application packages (APKs). It separates app metadata management from large binary file hosting to avoid bandwidth costs, file size caps, and link expiration.
+LUDORA is a lightweight catalog system for distributing Android application packages (APKs). It separates app metadata management from large binary file hosting to avoid bandwidth costs, file size caps, and link expiration.
 
 ---
 
